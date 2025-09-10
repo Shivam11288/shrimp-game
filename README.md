@@ -1,4 +1,5 @@
 # shrimp-game
+
 # Shrimp Scramble 🦐
 
 A fun and simple browser-based game created with HTML, CSS, and pure JavaScript. Test your reflexes by catching as many falling shrimp as you can! The background is a dynamic, procedurally generated "anoma" pattern.
