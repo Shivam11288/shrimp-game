@@ -1,0 +1,34 @@
+body {
+    background-color: #0d1117; /* Dark background, like GitHub */
+    color: #c9d1d9;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+#game-container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #58a6ff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+canvas {
+    background-color: #010409;
+    border: 2px solid #30363d;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);
+}
+
+.instructions {
+    margin-top: 15px;
+    font-size: 1.1rem;
+    color: #8b949e;
+}
